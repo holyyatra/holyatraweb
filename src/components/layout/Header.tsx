@@ -12,15 +12,11 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <div className="flex items-center">
               <Mail className="w-4 h-4 mr-2" />
-              <a href="mailto:info@safarbharat.com" className="hover:text-primary">
-                info@safarbharat.com
-              </a>
+              
             </div>
             <div className="flex items-center">
               <Phone className="w-4 h-4 mr-2" />
-              <a href="tel:+919990440875" className="hover:text-primary">
-                +91 9990440875
-              </a>
+              
             </div>
           </div>
           <div className="flex items-center space-x-4">
@@ -28,7 +24,7 @@ const Header = () => {
               Contact Us
             </a>
             <Button asChild variant="default" className="bg-primary hover:bg-primary/90 text-white font-semibold px-6 rounded">
-              <a href="http://Wa.me/+919990440875">
+              <a href="http://Wa.me/+919162456760">
                 Book Now
               </a>
             </Button>
@@ -41,7 +37,7 @@ const Header = () => {
         <div className="container mx-auto flex justify-between items-center px-4">
           <Link href="/" className="flex-shrink-0">
             <Image
-              src="https://ext.same-assets.com/42986993/3867082204.png"
+              src="https://github.com/holyyatra/holyatraweb/blob/main/logo.jpg?raw=true"
               alt="Holy Yatra Logo"
               width={180}
               height={50}
