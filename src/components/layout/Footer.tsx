@@ -143,7 +143,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 pt-6 flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <Image
-              src='../logo.jpg'
+              src="https://github.com/holyyatra/holyatraweb/blob/main/logo.jpg?raw=true"
               alt="Holy Yatra Logo"
               width={150}
               height={40}
