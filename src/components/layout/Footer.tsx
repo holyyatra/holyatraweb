@@ -151,7 +151,7 @@ const Footer = () => {
             />
           </div>
           <div className="text-gray-400 text-sm">
-            <span className="text-primary font-semibold">Holy Yatra</span> | Built by <a href="https://wa.me/+919070905070" className="text-white font-bold">growhype.ai</a>. All Rights Reserved.
+            <span className="text-primary font-semibold">Holy Yatra</span> | Built by <a href="https://wa.me/+919162456760" className="text-white font-bold">Holy Yatra</a>. All Rights Reserved.
           </div>
         </div>
       </div>
