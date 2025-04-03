@@ -70,7 +70,13 @@ const Header = () => {
             <Link href="/contact" className="text-secondary hover:text-primary font-medium transition-colors">
               Weekend Tour
             </Link>
-            
+            <Link href="/about" className="text-secondary hover:text-primary font-medium transition-colors">
+ 
+
+              About Us
+ 
+
+            </Link>
           </nav>
 
           {/* Mobile Menu Button */}
