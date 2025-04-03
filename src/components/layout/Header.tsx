@@ -11,9 +11,26 @@ const Header = () => {
         <div className="container mx-auto flex justify-between items-center px-4">
           <div className="flex items-center space-x-4">
             <div className="flex items-center">
-              
-              
+            <Mail className="w-4 h-4 mr-2" /> 
             </div>
+
+ 
+
+            <div className="flex items-center">
+ 
+
+              <Phone className="w-4 h-4 mr-2" />  
+            </div>
+            <div className="flex items-center space-x-4">
+ 
+
+                <a href="https://holyatra.com/" className="hover:text-primary">
+ 
+
+              Contact Us
+ 
+
+            </a>
           </div>
           
             <Button asChild variant="default" className="bg-primary hover:bg-primary/90 text-white font-semibold px-6 rounded">
