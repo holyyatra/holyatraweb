@@ -117,6 +117,7 @@ export default function DestinationList() {
             {tourPackages.map((tour) => (
               <Link
                 key={tour.id}
+                href={`/tours/${tour.slug}`}
                 
                 className="group block"
               >
