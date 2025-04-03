@@ -37,7 +37,7 @@ const Header = () => {
         <div className="container mx-auto flex justify-between items-center px-4">
           <Link href="/" className="flex-shrink-0">
             <Image
-              src="https://github.com/holyyatra/holyatraweb/blob/main/logo.jpg?raw=true"
+              src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
               alt="Holy Yatra Logo"
               width={180}
               height={50}
